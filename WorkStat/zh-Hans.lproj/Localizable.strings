@@ -1,0 +1,66 @@
+/* 
+   Localizable.strings
+   WorkStat
+   
+   中文本地化文件
+*/
+
+// 应用名称
+"app_name" = "待办事项统计";
+
+// 主界面
+"statistics" = "统计";
+"todo_list" = "待办事项";
+"add_todo" = "添加待办事项";
+"no_todos" = "暂无待办事项";
+"no_todos_message" = "还没有待办事项\n点击下方按钮添加第一个待办事项";
+"completed" = "已完成";
+"remaining" = "剩余";
+"total_progress" = "总进度";
+"legend" = "图例";
+
+// 表单
+"edit_todo" = "编辑待办事项";
+"todo_title" = "待办事项标题";
+"enter_title" = "请输入标题";
+"percentage_weight" = "百分比权重";
+"remaining_percentage" = "剩余可用: %.1f%%";
+"enter_percentage" = "输入百分比";
+"percentage_hint" = "提示：所有待办事项的百分比总和不能超过100%";
+"cancel" = "取消";
+"save" = "保存";
+"add" = "添加";
+
+// 错误信息
+"error" = "错误";
+"ok" = "确定";
+"title_required" = "请输入标题";
+"valid_percentage_required" = "请输入有效的百分比";
+"percentage_exceeds_limit" = "百分比总和不能超过100%";
+
+// 设置页面
+"settings" = "设置";
+"close" = "关闭";
+"version" = "版本 %@";
+"about" = "关于";
+"about_subtitle" = "了解更多关于此应用的信息";
+"feedback" = "反馈";
+"feedback_subtitle" = "发送反馈和建议";
+"rate_app" = "评分";
+"rate_subtitle" = "在App Store中为我们评分";
+
+// 关于页面
+"about_description_title" = "关于应用";
+"about_description" = "WorkStat 是一款简洁优雅的待办事项统计工具，帮助您更好地管理时间和任务。通过直观的圆饼图显示，您可以清楚地了解各项任务的时间分配情况。";
+"features_title" = "主要功能";
+"feature_1" = "• 直观的圆饼图统计显示";
+"feature_2" = "• 待办事项百分比管理";
+"feature_3" = "• 优雅的动画效果";
+"feature_4" = "• 简洁的用户界面";
+"feature_5" = "• 数据本地存储";
+"copyright" = "© 2025 WorkStat. All rights reserved.";
+"made_with_love" = "Made with ❤️ for productivity";
+
+// 反馈
+"feedback_subject" = "WorkStat 反馈";
+"feedback_body" = "请在此处输入您的反馈...";

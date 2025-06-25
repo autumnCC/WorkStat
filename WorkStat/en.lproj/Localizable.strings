@@ -1,0 +1,66 @@
+/* 
+   Localizable.strings
+   WorkStat
+   
+   English localization file
+*/
+
+// App name
+"app_name" = "WorkStat";
+
+// Main interface
+"statistics" = "Statistics";
+"todo_list" = "Todo List";
+"add_todo" = "Add Todo";
+"no_todos" = "No todos yet";
+"no_todos_message" = "No todos yet\nTap the button below to add your first todo";
+"completed" = "Completed";
+"remaining" = "Remaining";
+"total_progress" = "Total Progress";
+"legend" = "Legend";
+
+// Form
+"edit_todo" = "Edit Todo";
+"todo_title" = "Todo Title";
+"enter_title" = "Enter title";
+"percentage_weight" = "Percentage Weight";
+"remaining_percentage" = "Available: %.1f%%";
+"enter_percentage" = "Enter percentage";
+"percentage_hint" = "Tip: Total percentage of all todos cannot exceed 100%";
+"cancel" = "Cancel";
+"save" = "Save";
+"add" = "Add";
+
+// Error messages
+"error" = "Error";
+"ok" = "OK";
+"title_required" = "Please enter a title";
+"valid_percentage_required" = "Please enter a valid percentage";
+"percentage_exceeds_limit" = "Total percentage cannot exceed 100%";
+
+// Settings page
+"settings" = "Settings";
+"close" = "Close";
+"version" = "Version %@";
+"about" = "About";
+"about_subtitle" = "Learn more about this app";
+"feedback" = "Feedback";
+"feedback_subtitle" = "Send feedback and suggestions";
+"rate_app" = "Rate App";
+"rate_subtitle" = "Rate us on the App Store";
+
+// About page
+"about_description_title" = "About the App";
+"about_description" = "WorkStat is a clean and elegant todo statistics tool that helps you better manage your time and tasks. Through intuitive pie chart displays, you can clearly understand the time allocation of various tasks.";
+"features_title" = "Key Features";
+"feature_1" = "• Intuitive pie chart statistics display";
+"feature_2" = "• Todo percentage management";
+"feature_3" = "• Elegant animation effects";
+"feature_4" = "• Clean user interface";
+"feature_5" = "• Local data storage";
+"copyright" = "© 2025 WorkStat. All rights reserved.";
+"made_with_love" = "Made with ❤️ for productivity";
+
+// Feedback
+"feedback_subject" = "WorkStat Feedback";
+"feedback_body" = "Please enter your feedback here...";
